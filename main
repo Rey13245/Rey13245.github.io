@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Home • Spider Engineer</title>
+    <title>History of the internet • Spider Engineer</title>
       <link rel="stylesheet" href="style.css">
  <link rel="shortcut icon" href="Images/iconz.png" />
   </head>
@@ -14,7 +14,7 @@
     }
 
     </script>
-    <p style="font-size:14;color:#EFEFE8FF;background-color:#FE0000FF"><b>Disclaimer: This website is intended for learning purposes only as part of the GIN446 - Web programming course.</b></p>
+    <p style='font-size:14;color:#EFEFE8FF;background-color:#FE0000FF'><b>Disclaimer: This website is intended for learning purposes only as part of the GIN446 - Web programming course.</b></p>
     <h1 ><b>Your friendly neighborhood Spider-Engineer.</b></h1>
    <div >
      <style media="screen">
@@ -29,11 +29,11 @@
 <li class="Hnavbarli"><button onclick="myFunction()" align="left">Toggle dark mode</button></li>
 </ul>
     </div>
-    <div style="padding:100px" align="center">
-  <h1 align="center">Website under construction.</h1>
-  <img src="Images\under construction.png" alt>
-  <h2 align="center">Thank you for your patience.</h2>
-  </div>
+    <div style="padding:100px">
+ 
+</div> 
   <hr>
-  </body>
+  <p><b>Developer</b><br><a href="CV.html">about</a></p>
+
+</body>
 </html>
